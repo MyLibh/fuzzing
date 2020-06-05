@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+boost/is_palindrome/fuzzer
+
+boost/lexical_cast/fuzzer
+
+boost/split/fuzzer
+
+boost/tokenizer/fuzzer
+
+boost/trim/fuzzer
+
+boost/strtol/fuzzer
+
+boost/case_conv/fuzzer
