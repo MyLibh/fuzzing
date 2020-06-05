@@ -31,15 +31,4 @@
 *.out
 *.app
 
-boost/case_conv/fuzzer
-boost/find_first/fuzzer
-boost/gather/fuzzer
-boost/hex/fuzzer
-boost/is_palindrome/fuzzer
-boost/lexical_cast/fuzzer
-boost/one_of/fuzzer
-boost/replace/fuzzer
-boost/split/fuzzer
-boost/strtol/fuzzer
-boost/tokenizer/fuzzer
-boost/trim/fuzzer
+**/fuzzer
