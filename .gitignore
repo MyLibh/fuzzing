@@ -44,3 +44,9 @@ boost/trim/fuzzer
 boost/strtol/fuzzer
 
 boost/case_conv/fuzzer
+
+boost/find_first/fuzzer
+
+boost/hex/fuzzer
+
+boost/replace/fuzzer
