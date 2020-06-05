@@ -3,7 +3,8 @@
 ### Links
 
 1. [libFuzzer](https://llvm.org/docs/LibFuzzer.html)
-2. [Presentation](https://docs.google.com/presentation/d/1sxOu0u06xIocd4DEBFAwXct8wEoZB8MgURw4ylP14zM/edit?usp=sharing)
+2. [Presentation[EN]](https://docs.google.com/presentation/d/1sxOu0u06xIocd4DEBFAwXct8wEoZB8MgURw4ylP14zM/edit?usp=sharing)
+3. [Presentation[RU]]()
 
 ### Build info
 
